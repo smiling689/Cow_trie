@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Cow_trie.dir/test/trie_store_correctness_test.cpp.o  -o Cow_trie  -lpthread 

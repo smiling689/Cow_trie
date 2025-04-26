@@ -1,0 +1,3 @@
+/home/smiling/My_Codes/Cow_trie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/smiling/My_Codes/Cow_trie/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/smiling/My_Codes/Cow_trie/cmake-build-debug/CMakeFiles/Cow_trie.dir
